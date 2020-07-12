@@ -1,5 +1,5 @@
 ### Hi, my name is Andrew Park
-
+I'm an Electrical Engineer
 <!--
 **Iznoanygod/Iznoanygod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
