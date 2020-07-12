@@ -1,5 +1,9 @@
 ### Hi, my name is Andrew Park
-I'm an Electrical Engineer
+
+About Me
+* Junior at Rutgers University New Brunswick
+* Major in Electrical Engineering, Computer Science
+* Minor in Mathematics
 <!--
 **Iznoanygod/Iznoanygod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
