@@ -8,4 +8,23 @@ About Me
 Hobbies and Interests
 * Video Games
 * Servers
-* Programming
+* Systems Programming
+
+My Research Interests Include
+* Computer Security(Hardware/System/Embedded)
+* Operating Systems
+* Parallel/Distributed/High Performance Computing
+* Malware Analysis
+* Cryptography
+* Numerical Analysis
+
+How to contact me:
+* Email: mkbandrewp (at) gmail (dot) com
+
+Programming Languages
+* C/C++ (but mostly C)
+* Go
+* Java
+* Python
+* Assembly(x86, RISC-V)
+* 
