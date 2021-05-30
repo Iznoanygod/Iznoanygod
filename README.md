@@ -11,21 +11,21 @@ Hobbies and Interests
 * Building Servers
 * Building Mechanical Keyboards
 
-My Research Interests Include
+My Research Interests Include (from most to least interested)
 * Computer Security (Hardware/System/Embedded)
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
 * Malware Analysis
-* Machine Learning & Artificial Intelligence
 * Cryptography
+* Machine Learning & Artificial Intelligence
 * Numerical Analysis
 
 How to contact me:
 * Email: mkbandrewp (at) gmail (dot) com
 
-Programming Languages
-* C/C++ (but mostly C)
-* Go
+Programming Languages (from most to least proficient)
+* C/C++
 * Java
-* Python
+* Go
 * Assembly (x86, RISC-V) 
+* Python
