@@ -27,4 +27,4 @@ Programming Languages
 * Go
 * Java
 * Python
-* Assembly(x86, RISC-V) 
+* Assembly (x86, RISC-V) 
