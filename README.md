@@ -12,7 +12,7 @@ Hobbies and Interests
 * Building Mechanical Keyboards
 
 My Research Interests Include
-* Computer Security(Hardware/System/Embedded)
+* Computer Security (Hardware/System/Embedded)
 * Operating Systems
 * Parallel/Distributed/High Performance Computing
 * Malware Analysis
