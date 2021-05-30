@@ -7,8 +7,8 @@ About Me
 
 Hobbies and Interests
 * Video Games
-* Servers
 * Systems Programming
+* Building Servers
 
 My Research Interests Include
 * Computer Security(Hardware/System/Embedded)
@@ -26,5 +26,4 @@ Programming Languages
 * Go
 * Java
 * Python
-* Assembly(x86, RISC-V)
-* 
+* Assembly(x86, RISC-V) 
