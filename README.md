@@ -9,6 +9,7 @@ Hobbies and Interests
 * Video Games
 * Systems Programming
 * Building Servers
+* Building Mechanical Keyboards
 
 My Research Interests Include
 * Computer Security(Hardware/System/Embedded)
