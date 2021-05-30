@@ -1,4 +1,4 @@
-### Hi, my name is Andrew Park
+### Hi, I'm Andrew Park
 
 About Me
 * Junior at Rutgers University New Brunswick
