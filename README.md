@@ -2,7 +2,7 @@
 
 About Me
 * Junior at Rutgers University New Brunswick
-* Major in Electrical Engineering, Computer Science
+* Major in Electrical & Computer Engineering, Computer Science
 * Minor in Mathematics
 
 Hobbies and Interests
@@ -13,9 +13,10 @@ Hobbies and Interests
 
 My Research Interests Include
 * Computer Security (Hardware/System/Embedded)
-* Operating Systems
 * Parallel/Distributed/High Performance Computing
+* Operating Systems
 * Malware Analysis
+* Machine Learning & Artificial Intelligence
 * Cryptography
 * Numerical Analysis
 
