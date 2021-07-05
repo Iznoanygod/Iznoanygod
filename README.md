@@ -11,7 +11,7 @@ Hobbies and Interests
 * Building Servers
 * Building Mechanical Keyboards
 
-My Research Interests Include (from most to least interested)
+My Research Interests Include
 * Computer Security (Hardware/System/Embedded)
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
@@ -23,7 +23,7 @@ My Research Interests Include (from most to least interested)
 How to contact me:
 * Email: mkbandrewp (at) gmail (dot) com
 
-Programming Languages (from most to least proficient)
+Programming Languages
 * C/C++
 * Java
 * Go
