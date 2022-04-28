@@ -1,7 +1,7 @@
 ### Hi, I'm Andrew Park
 
 About Me
-* Senior at Rutgers University New Brunswick
+* Senior and incoming graduate student at Rutgers University New Brunswick
 * Major in Electrical & Computer Engineering, Computer Science
 * Minor in Mathematics
 
