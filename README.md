@@ -10,6 +10,7 @@ Hobbies and Interests
 * Systems Programming
 * Building Servers
 * Building Mechanical Keyboards
+* Snowboarding
 
 My Research Interests Include
 * Computer Security (Hardware/System/Embedded)
