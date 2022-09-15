@@ -16,10 +16,7 @@ My Research Interests Include
 * Computer Security (Hardware/System/Embedded)
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
-* Malware Analysis
 * Cryptography
-* Machine Learning & Artificial Intelligence
-* Numerical Analysis
 
 How to contact me:
 * Email: mkbandrewp (at) gmail (dot) com
