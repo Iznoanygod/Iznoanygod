@@ -1,5 +1,4 @@
 ### Hi, I'm Andrew Park
-[My resume](https://github.com/Iznoanygod/Iznoanygod/blob/master/andrewpark.pdf)
 
 About Me
 * Graduate student at Rutgers University New Brunswick
