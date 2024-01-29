@@ -18,6 +18,7 @@ My Research Interests Include
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
 * Cryptography
+* Machine Learning
 
 How to contact me:
 * Email: mkbandrewp (at) gmail (dot) com
