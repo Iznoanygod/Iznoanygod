@@ -14,17 +14,17 @@ Hobbies and Interests
 * Snowboarding
 
 My Research Interests Include
-* Computer Security (Hardware/System/Embedded)
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
-* Cryptography
 * Machine Learning
+* Computer Security (Hardware/System/Embedded)
+* Cryptography
 
 How to contact me:
 * Email: mkbandrewp (at) gmail (dot) com
 
 Programming Languages
-* C/C++
+* C
 * Java
 * Go
 * Assembly (x86, RISC-V, ARM) 
